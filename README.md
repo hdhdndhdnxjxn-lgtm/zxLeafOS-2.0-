@@ -1,5 +1,5 @@
 # zxLeafOS2.0正式版
-
+这是我让deepseek完全重写的同名版本，只是为了致敬zxLeafOS，所有ui都是由deepseek自行生成，如有雷同，纯属巧合
 基于 Scratch / 02Engine 构建的网页操作系统，包含完整窗口管理、虚拟文件系统和内置应用生态。
 
 ## 项目概况
